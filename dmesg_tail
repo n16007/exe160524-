@@ -1,0 +1,11 @@
+[12798.076069] cfg80211:   (4910000 KHz - 4990000 KHz @ 40000 KHz), (N/A, 2300 mBm), (N/A)
+[12798.076071] cfg80211:   (5030000 KHz - 5090000 KHz @ 40000 KHz), (N/A, 2300 mBm), (N/A)
+[12798.076075] cfg80211:   (5170000 KHz - 5250000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (N/A)
+[12798.076079] cfg80211:   (5250000 KHz - 5330000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (0 s)
+[12798.076082] cfg80211:   (5490000 KHz - 5710000 KHz @ 160000 KHz), (N/A, 2300 mBm), (0 s)
+[12798.076085] cfg80211:   (59000000 KHz - 66000000 KHz @ 2160000 KHz), (N/A, 1000 mBm), (N/A)
+[12800.369135] usb 1-5: New USB device found, idVendor=04ca, idProduct=3014
+[12800.369142] usb 1-5: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[16171.691308] usb 1-2: USB disconnect, device number 2
+[16171.691333] usb 1-2.3: USB disconnect, device number 4
+
